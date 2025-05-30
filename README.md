@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner](https://github.com/patckennedy/patckennedy/raw/main/ppp.jpg)
+![Banner](https://github.com/patckennedy/patckennedy/raw/main/PPP.jpg)
 
 # 👋 Hi there! I'm Patricia Kennedy
 
