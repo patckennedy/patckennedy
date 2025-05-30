@@ -14,7 +14,7 @@ I love collaborating, enjoy learning new technologies, and am always looking for
 ### 🌟 **[DevHire](https://github.com/patckennedy/devhire)**
 A solo project job board for developers to find and apply for jobs.
 
-### 🌟 **[Live Snippet Manager](https://github.com/patckennedy/live-snippet-manager)**
+### 🌟 COMING SOON! **[Live Snippet Manager](https://github.com/patckennedy/live-snippet-manager)**
 A collaborative project to manage and export code snippets as PNGs.
 
 ### 🌟 **[Outdoor Adventures](https://github.com/patckennedy/outdoor-adventures)**
