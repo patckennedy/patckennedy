@@ -17,8 +17,8 @@ A solo project job board for developers to find and apply for jobs.
 ### 🌟 COMING SOON! ** CodeCanvas - Live Snippet Manager
 A collaborative project to manage and export code snippets as PNGs.
 
-### 🌟 COMING SOON! ** Outdoor Adventure
-A group project for a client that connects families to the outdoors.
+### 🌟 COMING SOON! ** Servee
+A restaurent finder app.
 
 ---
 
