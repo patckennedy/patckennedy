@@ -20,6 +20,9 @@ A collaborative project to manage and export code snippets as PNGs.
 ### 🌟 COMING SOON! ** Servee
 A restaurent finder app.
 
+### 🌟 COMING SOON! ** Cafind
+A 3D Coffee Shop finder.
+
 ---
 
 ## 📫 Get in touch
