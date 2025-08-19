@@ -1,11 +1,11 @@
 ## Hi there 👋
-![Banner](https://github.com/patckennedy/patckennedy/raw/main/PPP.jpg)
+![Banner](https://github.com/patckennedy/branding-assets/raw/main/assets/banner_github.png)
 
 # 👋 Hi there! I'm Patricia Kennedy  
 
 A **Full-Stack Software Engineer** (PERN stack: PostgreSQL, Express, React, Node.js) and **AI Engineer in Training** with over 5 years of professional experience in tech.  
 
-My journey started in IT support and infrastructure, where I built strong foundations in problem-solving and communication. I recently completed a **6-month Full-Stack Development program**, creating scalable, responsive web applications.  
+My journey started in IT support and infrastructure, where I built strong foundations in problem-solving and communication. I recently completed a **6-month Full-Stack Software Development program**, creating scalable, responsive web applications.  
 
 Now, I’m expanding into **AI engineering** — blending my software background with **Python, LLMs, RAG pipelines, and AI Agents**. My mission is to build **real-world AI applications** that are intelligent, impactful, and user-friendly.  
 
