@@ -27,9 +27,11 @@ Now, I’m expanding into **AI engineering** — blending my software background
 
 ## 🎓 Current Learning Path  
 
-- **The Complete Python Bootcamp – Zero to Hero** (Udemy)  
+- **The Complete Python Bootcamp – Zero to Hero** (Udemy)
+- **LLM Engineering: Master AI, Large Language Models & Agents** (Udemy)  
 - **DeepLearning.AI: Generative AI with LLMs** (Coursera)  
-- **Microsoft AI Engineer Associate (in progress)**  
+- **Microsoft AI Engineer Associate (in progress)**
+- **The Complete Agentic AI Engineering Course (2025)** (Udemy)
 - **Udacity – AI Programming with Python Nanodegree** (planned)  
 
 ---
