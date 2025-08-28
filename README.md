@@ -55,7 +55,11 @@ My software engineering career continues — this roadmap expands my skills into
 - FastAPI (production-ready AI backends)  
 
 ---
+## 📂 Learning Journey  
 
+📖 I’m documenting my **12-month AI Engineering roadmap** with weekly logs, projects, and reflections in my [Learning Log Repository](https://github.com/patckennedy/learning-log).  
+
+---
 ## 📫 Get in Touch  
 
 - **Portfolio**: [https://patckennedy.com](https://patckennedy.com)  
