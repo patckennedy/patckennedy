@@ -9,12 +9,16 @@ My journey started in IT support and infrastructure, where I built strong founda
 
 Now, I’m expanding into **AI engineering** — blending my software background with **Python, LLMs, RAG pipelines, and AI Agents**. My mission is to build **real-world AI applications** that are intelligent, impactful, and user-friendly.  
 
+⚡ **Career Note**: While I’m on this AI roadmap, I’m **still actively pursuing Full-Stack / Web Developer roles** (PERN stack).  
+My software engineering career continues — this roadmap expands my skills into AI to position me for hybrid **AI + Web Dev** opportunities.  
+
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🌟 Full-Stack Development  
-- **[DevHire](https://github.com/patckennedy/devhire-job-portal)** – A solo project job board for developers (PERN stack).  
+- **DevHire** – A solo project job board for developers (PERN stack).  
+  🔗 Repo: [github.com/patckennedy/devhire-job-portal](https://github.com/patckennedy/devhire-job-portal)  
 - **CodeCanvas (Coming Soon)** – A live snippet manager for developers.  
 
 ### 🌟 AI Engineering (Learning Path)  
@@ -27,30 +31,31 @@ Now, I’m expanding into **AI engineering** — blending my software background
 
 ## 🎓 Current Learning Path  
 
-- **The Complete Python Bootcamp – Zero to Hero** (Udemy)
+- **The Complete Python Bootcamp – Zero to Hero** (Udemy)  
 - **LLM Engineering: Master AI, Large Language Models & Agents** (Udemy)  
 - **DeepLearning.AI: Generative AI with LLMs** (Coursera)  
-- **Microsoft AI Engineer Associate (in progress)**
-- **The Complete Agentic AI Engineering Course (2025)** (Udemy)
+- **Microsoft AI Engineer Associate (in progress)**  
+- **The Complete Agentic AI Engineering Course (2025)** (Udemy)  
 - **Udacity – AI Programming with Python Nanodegree** (planned)  
 
 ---
+
 ## 🛠 Roadmap & Tools  
 
- **Currently practicing with:**
+**Currently practicing with:**  
 - Python (core)  
 - PERN Stack (PostgreSQL, Express, React, Node.js)  
-- OpenAI API
+- OpenAI API  
 
-  
-**Next on my roadmap**
+**Next on my roadmap:**  
 - PyTorch (deep learning)  
 - Hugging Face Transformers (NLP/LLMs)  
 - LangChain (AI app orchestration)  
 - Vector Databases (Chroma, Pinecone, pgvector)  
-- FastAPI (production-ready AI backends) 
+- FastAPI (production-ready AI backends)  
 
 ---
+
 ## 📫 Get in Touch  
 
 - **Portfolio**: [https://patckennedy.com](https://patckennedy.com)  
