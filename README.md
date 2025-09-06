@@ -3,14 +3,14 @@
 
 # 👋 Hi there! I'm Patricia Kennedy  
 
-A **Full-Stack Software Engineer** (PERN stack: PostgreSQL, Express, React, Node.js) and **AI Engineer in Training** with over 5 years of professional experience in tech.  
+A **Full-Stack Software Engineer** (PERN stack: PostgreSQL, Express, React, Node.js) with over 5 years of professional experience in tech.  
 
 My journey started in IT support and infrastructure, where I built strong foundations in problem-solving and communication. I recently completed a **6-month Full-Stack Software Development program**, creating scalable, responsive web applications.  
 
-Now, I’m expanding into **AI engineering** — blending my software background with **Python, LLMs, RAG pipelines, and AI Agents**. My mission is to build **real-world AI applications** that are intelligent, impactful, and user-friendly.  
+Now, I’m focused on **career enhancements with Python and AI Engineering** — expanding my software background to include skills in **LLMs, RAG pipelines, and AI Agents**. My mission is to build **real-world applications** that are intelligent, impactful, and user-friendly.  
 
-⚡ **Career Note**: While I’m on this AI roadmap, I’m **still actively pursuing Full-Stack / Web Developer roles** (PERN stack).  
-My software engineering career continues — this roadmap expands my skills into AI to position me for hybrid **AI + Web Dev** opportunities.  
+⚡ **Career Note**: While I’m on this Python & AI roadmap, I’m **still actively pursuing Full-Stack / Web Developer roles** (PERN stack).  
+My software engineering career continues — these enhancements position me for hybrid **Full-Stack + AI** opportunities in the future.  
 
 ---
 
@@ -21,22 +21,30 @@ My software engineering career continues — this roadmap expands my skills into
   🔗 Repo: [github.com/patckennedy/devhire-job-portal](https://github.com/patckennedy/devhire-job-portal)  
 - **CodeCanvas (Coming Soon)** – A live snippet manager for developers.  
 
-### 🌟 AI Engineering (Learning Path)  
+---
+### 🌟 Python & AI Engineering (Career Enhancements)  
+I’m actively enhancing my career by building projects that apply **Python and AI engineering concepts**.  
+Each project is documented in detail in my [Learning Log](https://github.com/patckennedy/learning-log).  
+
 - **01 – Python CLI Tools** – Foundational scripting projects.  
-- **02 – Hello LLM App** – First AI-powered Q&A bot using OpenAI API.  
-- **03 – Mini RAG Project (Coming Soon)** – Document ingestion → embeddings → retrieval → citations.  
-- **04 – AI Agent for Task Automation (Coming Soon)** – Multi-step autonomous task executor.  
+- **02 – Hello LLM App (Planned)** – First AI-powered Q&A bot using the OpenAI API.  
+- **03 – RAG Mini-Project (Planned)** – Document ingestion → embeddings → retrieval → citations.  
+- **04 – AI Agent Demo (Planned)** – Multi-step autonomous task executor.  
 
 ---
 
-## 🎓 Current Learning Path  
+## 🎓 Current Learning Resources  
 
-- **The Complete Python Bootcamp – Zero to Hero** (Udemy)  
-- **LLM Engineering: Master AI, Large Language Models & Agents** (Udemy)  
-- **DeepLearning.AI: Generative AI with LLMs** (Coursera)  
-- **Microsoft AI Engineer Associate (in progress)**  
+**In Progress**  
+- **The Complete Python Bootcamp – Zero to Hero** (Udemy)
+- **Chatbot — The Development Guide 2025** (Udemy)  
+ 
+**Planned**  
+- **LLM Engineering: Master AI, Large Language Models & Agents** (Udemy) 
 - **The Complete Agentic AI Engineering Course (2025)** (Udemy)  
-- **Udacity – AI Programming with Python Nanodegree** (planned)  
+- **Udacity – AI Programming with Python Nanodegree**  
+- **DeepLearning.AI: Generative AI with LLMs** (Coursera)  
+- **Microsoft AI Engineer Associate** (certification track) 
 
 ---
 
@@ -57,7 +65,7 @@ My software engineering career continues — this roadmap expands my skills into
 ---
 ## 📂 Learning Journey  
 
-📖 I’m documenting my **12-month AI Engineering roadmap** with weekly logs, projects, and reflections in my [Learning Log Repository](https://github.com/patckennedy/learning-log).  
+📖 I’m documenting my **career enhancement journey with Python & AI Engineering** with weekly logs, projects, and reflections in my [Learning Log Repository](https://github.com/patckennedy/learning-log).  
 
 ---
 ## 📫 Get in Touch  
