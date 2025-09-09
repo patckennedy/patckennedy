@@ -1,79 +1,78 @@
 ## Hi there 👋
 ![Banner](https://github.com/patckennedy/branding-assets/raw/main/assets/banner_github.png)
 
-# 👋 Hi there! I'm Patricia Kennedy  
+# 👋 Hi, I'm Patricia Kennedy  
 
-A **Full-Stack Software Engineer** (PERN stack: PostgreSQL, Express, React, Node.js) with over 5 years of professional experience in tech.  
+A **Full-Stack Software Developer** (PERN stack: PostgreSQL, Express, React, Node.js) with 5+ years of experience in IT and technical problem-solving.  
 
-My journey started in IT support and infrastructure, where I built strong foundations in problem-solving and communication. I recently completed a **6-month Full-Stack Software Development program**, creating scalable, responsive web applications.  
+My journey started in **IT support**, where I built strong skills in **debugging, troubleshooting, and cross-team communication**. After completing a **6-month Full-Stack Bootcamp**, I’ve been focused on building **scalable, tested, and deployable web applications** with modern tools.  
 
-Now, I’m focused on **career enhancements with Python and AI Engineering** — expanding my software background to include skills in **LLMs, RAG pipelines, and AI Agents**. My mission is to build **real-world applications** that are intelligent, impactful, and user-friendly.  
+Today, I’m sharpening the skills that make me industry-ready as a developer:  
+- **TypeScript** (React + Node)  
+- **Testing** (Jest, React Testing Library)  
+- **Docker + CI/CD** (GitHub Actions)  
+- **Security & Reliability** (Auth, Logging, Error Handling)  
 
-⚡ **Career Note**: While I’m on this Python & AI roadmap, I’m **still actively pursuing Full-Stack / Web Developer roles** (PERN stack).  
-My software engineering career continues — these enhancements position me for hybrid **Full-Stack + AI** opportunities in the future.  
-
----
-
-## 🚀 Featured Projects  
-
-### 🌟 Full-Stack Development  
-- **DevHire** – A solo project job board for developers (PERN stack).  
-  🔗 Repo: [github.com/patckennedy/devhire-job-portal](https://github.com/patckennedy/devhire-job-portal)  
-- **CodeCanvas (Coming Soon)** – A live snippet manager for developers.  
-
----
-### 🌟 Python & AI Engineering (Career Enhancements)  
-I’m actively enhancing my career by building projects that apply **Python and AI engineering concepts**.  
-Each project is documented in detail in my [Learning Log](https://github.com/patckennedy/learning-log).  
-
-- **01 – Python CLI Tools** – Foundational scripting projects.  
-- **02 – Hello LLM App (Planned)** – First AI-powered Q&A bot using the OpenAI API.  
-- **03 – RAG Mini-Project (Planned)** – Document ingestion → embeddings → retrieval → citations.  
-- **04 – AI Agent Demo (Planned)** – Multi-step autonomous task executor.  
+⚡ **Career Note:** While Full-Stack development is my immediate focus, I’m also pursuing a **part-time AI/Python learning journey**. This enhances my foundation with skills in **LLMs, RAG pipelines, and AI agents** — preparing me for the future of intelligent applications.
 
 ---
 
-## 🎓 Current Learning Resources  
+## 🛠 Skills Snapshot  
 
-**In Progress**  
-- **The Complete Python Bootcamp – Zero to Hero** (Udemy)
-- **Chatbot — The Development Guide 2025** (Udemy)  
- 
-**Planned**  
-- **LLM Engineering: Master AI, Large Language Models & Agents** (Udemy) 
-- **The Complete Agentic AI Engineering Course (2025)** (Udemy)  
-- **Udacity – AI Programming with Python Nanodegree**  
-- **DeepLearning.AI: Generative AI with LLMs** (Coursera)  
-- **Microsoft AI Engineer Associate** (certification track) 
+**Languages & Frameworks**  
+JavaScript (ES6+) · TypeScript · Node.js · Express · React · PostgreSQL · MongoDB  
+
+**Engineering Practices**  
+REST APIs · JWT/OAuth Auth · Unit & Integration Testing (Jest, RTL) · CI/CD (GitHub Actions) · Docker · 12-Factor Apps · Deployment (Vercel, Render, Railway)  
+
+**Current Focus Areas**  
+TypeScript · Testing Discipline · Docker & CI/CD · Security & Reliability  
 
 ---
 
-## 🛠 Roadmap & Tools  
+## 📂 Projects  
 
-**Currently practicing with:**  
-- Python (core)  
-- PERN Stack (PostgreSQL, Express, React, Node.js)  
-- OpenAI API  
+### 🔄 Skill Refreshers  
+- **JavaScript Fundamentals Refresher** *(In Progress)*  
+  🔗 [Repo](https://github.com/patckennedy/javascript-refresher) – Revisiting ES6+, async/await, array methods, and error handling.  
+- **TypeScript Practice** *(Planned – coming soon)*  
+  🔗 [Repo Link](#) – Exercises and mini-projects focused on TypeScript with React + Node.  
 
-**Next on my roadmap:**  
-- PyTorch (deep learning)  
-- Hugging Face Transformers (NLP/LLMs)  
-- LangChain (AI app orchestration)  
-- Vector Databases (Chroma, Pinecone, pgvector)  
-- FastAPI (production-ready AI backends)  
+### 🚀 Real-World Projects  
+- **DevHire** – Full-stack job board for developers (PERN + JWT auth).  
+  🔗 [Repo](https://github.com/patckennedy/devhire-job-portal)  
+- **Outdoor Adventures** – Team PERN project with JWT authentication and Zustand for state management.  
+  🔗 [Repo](https://github.com/patckennedy/outdoor-adventures)  
+- **Ticket Triage Lite** *(Planned – inspired by IT support experience)*  
+  Role-based auth, logging, error handling, and monitoring.  
+- **Service Catalog** *(Planned – currently designing)*  
+  React + Node app with search/filter + Docker + CI/CD pipeline.  
 
 ---
-## 📂 Learning Journey  
 
-📖 I’m documenting my **career enhancement journey with Python & AI Engineering** with weekly logs, projects, and reflections in my [Learning Log Repository](https://github.com/patckennedy/learning-log).  
+## 🌟 Career Enhancements (AI/Python)  
+I’m also building projects that apply **Python and AI engineering concepts** — documented in my [Learning Log](https://github.com/patckennedy/learning-log).  
+
+- **01 – Python CLI Tools** – Foundational scripting projects  
+- **02 – Hello LLM App (Planned)** – First AI-powered Q&A bot using the OpenAI API  
+- **03 – RAG Mini-Project (Planned)** – Document ingestion → embeddings → retrieval → citations  
+- **04 – AI Agent Demo (Planned)** – Multi-step autonomous task executor  
 
 ---
+
+## 📚 Learning Journey  
+
+📖 I’m documenting everything — weekly logs, notes, and mini-projects — in my  
+➡️ [Learning Log Repository](https://github.com/patckennedy/learning-log)  
+
+---
+
 ## 📫 Get in Touch  
 
-- **Portfolio**: [https://patckennedy.com](https://patckennedy.com)  
+- **Portfolio**: [patckennedy.com](https://patckennedy.com)  
 - **Email**: [hello@patckennedy.com](mailto:hello@patckennedy.com)  
-- **LinkedIn**: [https://linkedin.com/in/patriciakennedy](https://linkedin.com/in/patriciakennedy)  
+- **LinkedIn**: [linkedin.com/in/patriciakennedy](https://linkedin.com/in/patriciakennedy)  
 
 ---
 
-⭐ Thanks for visiting! I’m blending my **full-stack development experience** with **AI engineering** to build the next generation of intelligent applications. 🚀  
+⭐ Thanks for visiting! I’m passionate about building **reliable, scalable, and user-focused applications** — while continuously expanding my skills to grow as a modern developer. 🚀  
