@@ -7,7 +7,8 @@ A **Full-Stack Software Developer** (PERN stack: PostgreSQL, Express, React, Nod
 
 My journey started in **IT support**, where I built strong skills in **debugging, troubleshooting, and cross-team communication**. After completing a **6-month Full-Stack Bootcamp**, I’ve been focused on building **scalable, tested, and deployable web applications** with modern tools.  
 
-Today, I’m sharpening the skills that make me industry-ready as a developer:  
+Today, I’m sharpening the skills that make me industry-ready as a developer: 
+- **JavaScript** (ES6+ fundamentals, async/await, array/object methods)  
 - **TypeScript** (React + Node)  
 - **Testing** (Jest, React Testing Library)  
 - **Docker + CI/CD** (GitHub Actions)  
