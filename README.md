@@ -34,6 +34,9 @@ TypeScript · Testing Discipline · Docker & CI/CD · Security & Reliability
 ## 📂 Projects  
 
 ### 🔄 Skill Refreshers  
+To strengthen my foundations across the stack, I’m building **refresher repos**.  
+Each repo includes notes, exercises, and mini-projects — focused practice to reinforce core concepts.  
+
 - **JavaScript Fundamentals Refresher** *(In Progress)*  
   🔗 [Repo](https://github.com/patckennedy/javascript-refresher) – Revisiting ES6+, async/await, array methods, and error handling.  
 - **TypeScript Practice** *(Planned – coming soon)*  
@@ -61,7 +64,7 @@ I’m also building projects that apply **Python and AI engineering concepts** �
 
 ---
 
-## 📚 Learning Journey  
+## 📚 Learning Journey (AI/Python)
 
 📖 I’m documenting everything — weekly logs, notes, and mini-projects — in my  
 ➡️ [Learning Log Repository](https://github.com/patckennedy/learning-log)  
