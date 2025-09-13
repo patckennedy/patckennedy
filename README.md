@@ -38,7 +38,7 @@ To strengthen my foundations across the stack, I’m building **refresher repos*
 Each repo includes notes, exercises, and mini-projects — focused practice to reinforce core concepts.  
 
 - **JavaScript Fundamentals Refresher** *(In Progress)*  
-  🔗 [Repo](https://github.com/patckennedy/javascript-refresher) – Revisiting ES6+, async/await, array methods, and error handling.  
+  🔗 [Repo Link](https://github.com/patckennedy/javascript-refresher) – Revisiting ES6+, async/await, array methods, and error handling.  
 - **TypeScript Practice** *(Planned – coming soon)*  
   🔗 [Repo Link](#) – Exercises and mini-projects focused on TypeScript with React + Node.  
 
