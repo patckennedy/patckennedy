@@ -42,7 +42,12 @@ Each repo includes notes, exercises, and mini-projects — focused practice to r
 - **TypeScript Practice** *(Planned – coming soon)*  
   🔗 [Repo Link](#) – Exercises and mini-projects focused on TypeScript with React + Node.  
 
-### 🚀 Real-World Projects  
+### ⚡ 30 Days of JavaScript Projects
+- Practical, self-built projects demonstrating real-world JavaScript skills.  
+🔗 [View Repo](https://github.com/patckennedy/js-portfolio-projects)
+
+
+### 💼 Featured Portfolio Projects
 - **DevHire** – Full-stack job board for developers (PERN + JWT auth).  
   🔗 [Repo](https://github.com/patckennedy/devhire-job-portal)  
 - **Outdoor Adventures** – Team PERN project with JWT authentication and Zustand for state management.  
