@@ -42,10 +42,6 @@ Each repo includes notes, exercises, and mini-projects — focused practice to r
 - **TypeScript Practice** *(Planned – coming soon)*  
   🔗 [Repo Link](#) – Exercises and mini-projects focused on TypeScript with React + Node.  
 
-### ⚡ 30 Days of JavaScript Projects
-- Practical, self-built projects demonstrating real-world JavaScript skills.  
-🔗 [View Repo](https://github.com/patckennedy/js-portfolio-projects)
-
 
 ### 💼 Featured Portfolio Projects
 - **DevHire** – Full-stack job board for developers (PERN + JWT auth).  
@@ -59,41 +55,33 @@ Each repo includes notes, exercises, and mini-projects — focused practice to r
 
 ---
 
-## 🌟 Career Enhancements (AI/Python)  
-I’m also building projects that apply **Python and AI engineering concepts** — documented in my [Learning Log](https://github.com/patckennedy/learning-log).  
+## 🌟 AI & Automation Projects (BigTechGirls Learning Track)
 
-- **01 – Python CLI Tools** – Foundational scripting projects  
-- **02 – Hello LLM App (Planned)** – First AI-powered Q&A bot using the OpenAI API  
+I’m currently expanding my skills through the **BigTechGirls Learning Log**, where I apply Python and AI engineering concepts to build automation tools, intelligent apps, and workflow systems for small businesses.  
+This track connects continuous learning with **real-world brand development** — transforming each project into a foundation for future client-ready solutions.
+
+📘 View full progress → [BigTechGirls Learning Log](https://github.com/patckennedy/bigtechgirls-learning-log)
+
+- **01 – Python Automation Tools** – Foundational scripting projects for real-world automation  
+- **02 – Hello LLM App (Planned)** – First AI-powered chatbot using the OpenAI API  
 - **03 – RAG Mini-Project (Planned)** – Document ingestion → embeddings → retrieval → citations  
 - **04 – AI Agent Demo (Planned)** – Multi-step autonomous task executor  
 
 ---
+
 ## 💡 BigTechGirls Learning Log — Building the AI-Driven Future
 
 **BigTechGirls** is my growing creative web and AI agency — a brand focused on empowering small businesses and entrepreneurs with **elegant, future-ready digital experiences**.
 
 As part of this mission, I’ve launched the **BigTechGirls Learning Log**, a structured learning journey documenting my **Python for AI (Automation Track)** studies and mini-projects.
 
-This initiative blends personal upskilling with real-world brand building — translating each lesson into practical automation ideas that can help businesses streamline workflows, enhance customer experiences, and integrate AI intelligently.
+This initiative blends personal upskilling with real-world brand building — translating each lesson into practical automation ideas that help businesses streamline workflows, enhance customer experiences, and integrate AI intelligently.
 
 📘 **Mission:**  
 *Designed with beauty. Built with intelligence. Delivered with confidence.*
 
 📂 **Follow the Journey:**  
-🔗 [BigTechGirls Learning Log →](https://github.com/patckennedy/learning-log)
-
----
-
-
-
-
-
-
-
-## 📚 Learning Journey (AI/Python)
-
-📖 I’m documenting everything — weekly logs, notes, and mini-projects — in my  
-➡️ [Learning Log Repository](https://github.com/patckennedy/learning-log)  
+🔗 [BigTechGirls Learning Log →](https://github.com/patckennedy/bigtechgirls-learning-log)
 
 ---
 
