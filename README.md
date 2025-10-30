@@ -68,6 +68,27 @@ I’m also building projects that apply **Python and AI engineering concepts** �
 - **04 – AI Agent Demo (Planned)** – Multi-step autonomous task executor  
 
 ---
+## 💡 BigTechGirls Learning Log — Building the AI-Driven Future
+
+**BigTechGirls** is my growing creative web and AI agency — a brand focused on empowering small businesses and entrepreneurs with **elegant, future-ready digital experiences**.
+
+As part of this mission, I’ve launched the **BigTechGirls Learning Log**, a structured learning journey documenting my **Python for AI (Automation Track)** studies and mini-projects.
+
+This initiative blends personal upskilling with real-world brand building — translating each lesson into practical automation ideas that can help businesses streamline workflows, enhance customer experiences, and integrate AI intelligently.
+
+📘 **Mission:**  
+*Designed with beauty. Built with intelligence. Delivered with confidence.*
+
+📂 **Follow the Journey:**  
+🔗 [BigTechGirls Learning Log →](https://github.com/patckennedy/learning-log)
+
+---
+
+
+
+
+
+
 
 ## 📚 Learning Journey (AI/Python)
 
