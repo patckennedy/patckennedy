@@ -84,6 +84,12 @@ This initiative blends personal upskilling with real-world brand building — tr
 🔗 [BigTechGirls Learning Log →](https://github.com/patckennedy/bigtechgirls-learning-log)
 
 ---
+## 🧭 Broader Learning Journey
+
+Alongside my AI & Automation track, I continue documenting my full developer learning progress — covering JavaScript, TypeScript, React, and backend fundamentals — in my main  
+➡️ [Learning Log Repository](https://github.com/patckennedy/learning-log)
+
+---
 
 ## 📫 Get in Touch  
 
