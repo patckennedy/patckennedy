@@ -1,7 +1,14 @@
-## Hi there 👋
+## Welcome 👋
 ![Banner](https://github.com/patckennedy/branding-assets/raw/main/assets/banner_github.png)
 
 # 👋 Hi, I'm Patricia Kennedy  
+![Python](https://img.shields.io/badge/Python-3.11-4B8BBE?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Express-5FA04E?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-RAG%20%7C%20Agents-F59E0B?logo=ai&logoColor=white)
+![BigTechGirls](https://img.shields.io/badge/BigTechGirls-Learning%20Track-F9A8D4?logo=sparkles&logoColor=black)
+
 
 A **Full-Stack Software Developer** (PERN stack: PostgreSQL, Express, React, Node.js) with 5+ years of experience in IT and technical problem-solving.  
 
@@ -57,31 +64,32 @@ Each repo includes notes, exercises, and mini-projects — focused practice to r
 
 ## 🌟 AI & Automation Projects (BigTechGirls Learning Track)
 
-I’m currently expanding my skills through the **BigTechGirls Learning Log**, where I apply Python and AI engineering concepts to build automation tools, intelligent apps, and workflow systems for small businesses.  
+I’m expanding my skills through the **BigTechGirls Learning Track**, where I apply **Python and AI engineering** to build automation tools, intelligent assistants, and workflow systems for small businesses.  
 This track connects continuous learning with **real-world brand development** — transforming each project into a foundation for future client-ready solutions.
 
 📘 View full progress → [BigTechGirls Learning Log](https://github.com/patckennedy/bigtechgirls-learning-log)
 
+---
+
+### 🚀 Current Focus — AI Engineer Core Track
+> [ai-engineer-core-track](https://github.com/patckennedy/ai-engineer-core-track)  
+> Hands-on mastery of **LLM Engineering, RAG, QLoRA, and AI Agents** — building real-world automation and intelligent systems.
+
+🧠 **What I’m Learning**
+- Running and evaluating open-source LLMs (Llama 3, Mistral, Gemma)  
+- Building multi-modal chatbots with Gradio & agents  
+- Implementing RAG pipelines with LangChain  
+- Fine-tuning models using LoRA / QLoRA  
+- Developing autonomous multi-agent systems  
+
+---
+
+### 🧩 Supporting Repositories
 - **01 – Python Automation Tools** – Foundational scripting projects for real-world automation  
 - **02 – Hello LLM App (Planned)** – First AI-powered chatbot using the OpenAI API  
 - **03 – RAG Mini-Project (Planned)** – Document ingestion → embeddings → retrieval → citations  
 - **04 – AI Agent Demo (Planned)** – Multi-step autonomous task executor  
 
----
-
-## 💡 BigTechGirls Learning Log — Building the AI-Driven Future
-
-**BigTechGirls** is my growing creative web and AI agency — a brand focused on empowering small businesses and entrepreneurs with **elegant, future-ready digital experiences**.
-
-As part of this mission, I’ve launched the **BigTechGirls Learning Log**, a structured learning journey documenting my **Python for AI (Automation Track)** studies and mini-projects.
-
-This initiative blends personal upskilling with real-world brand building — translating each lesson into practical automation ideas that help businesses streamline workflows, enhance customer experiences, and integrate AI intelligently.
-
-📘 **Mission:**  
-*Designed with beauty. Built with intelligence. Delivered with confidence.*
-
-📂 **Follow the Journey:**  
-🔗 [BigTechGirls Learning Log →](https://github.com/patckennedy/bigtechgirls-learning-log)
 
 ---
 ## 🧭 Broader Learning Journey
