@@ -1,3 +1,5 @@
+![Banner](https://github.com/patckennedy/branding-assets/raw/main/assets/banner_github.png)
+
 ## 👋 Hi, I'm Patricia Kennedy  
 **JavaScript Developer — React & Node.js (PERN Stack)**  
 
