@@ -38,12 +38,17 @@ A full-stack job board with authentication, protected routes, role-based feature
 Group project featuring JWT auth, PostgreSQL, reusable React components, and Zustand for state management.  
 🔗 https://github.com/patckennedy/outdoor-adventures  
 
-### **JavaScript Refresher — Foundations Practice**  
-Daily practice repo covering ES6+, async/await, array/object methods, exercises, and notes.  
-🔗 https://github.com/patckennedy/javascript-refresher  
+---
 
-### **Service Catalog (In Progress)**  
-A searchable React + Node service inventory with filters, pagination, and Docker + CI/CD integration.
+## 🧠 Learning Repositories  
+
+### **Python for AI and Data**
+A structured, professional learning log covering Python fundamentals, data structures, algorithms, and beginner data analysis tasks.
+🔗 https://github.com/patckennedy/python-for-ai-and-data
+
+### **JavaScript Refresher**
+Daily practice repo covering ES6+, async/await, array/object methods, exercises, and notes.
+🔗 https://github.com/patckennedy/javascript-refresher
 
 ---
 
