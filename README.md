@@ -1,75 +1,69 @@
 ![Banner](https://github.com/patckennedy/branding-assets/raw/main/assets/banner_github.png)
 
 ## 👋 Hi, I'm Patricia Kennedy  
-**JavaScript Developer — React & Node.js (PERN Stack)**  
+**Applied AI & Automation Engineer (Code-First, Systems-Focused)**  
 
-A growing **Full-Stack JavaScript Developer** with 5+ years of IT experience and a strong foundation in **React, Node.js, Express, and PostgreSQL**.  
-I enjoy building clean, user-focused applications and strengthening my skills through consistent practice, mini-projects, and full-stack builds.
+I build AI-powered automations in Python and use orchestration tools when they make sense.
 
----
+With 5+ years of experience supporting and improving production systems, I approach AI automation with a reliability-first mindset — focusing on clear logic, robust error handling, and real-world workflow integration.
 
-## 🛠️ Tech Stack  
-
-**Languages:**  
-JavaScript (ES6+), TypeScript  
-
-**Frontend:**  
-React • React Router • Zustand • Styled Components  
-
-**Backend:**  
-Node.js • Express • REST APIs • Authentication (JWT)  
-
-**Database:**  
-PostgreSQL  
-
-**Tools & Practices:**  
-Git • GitHub • Docker (learning) • Jest / React Testing Library (learning) • CI/CD (GitHub Actions)  
-State Management • Error Handling • Deployment (Vercel, Render, Railway)
+My background in full-stack JavaScript (PERN stack) strengthens my systems thinking, API design, and deployment discipline — but my primary focus is now applied AI and intelligent automation.
 
 ---
 
-## 📌 Featured Projects  
+## 🧠 Core Focus
 
-### **DevHire – Job Board Platform (PERN)**  
-A full-stack job board with authentication, protected routes, role-based features, and a clean UI.  
+- Python-based automation systems  
+- AI workflow integration (LLMs, agents, APIs)  
+- End-to-end data pipelines  
+- Error handling & reliability engineering  
+- API orchestration & system integration  
+- Production-aware AI automation
+
+---
+
+## 🛠️ Technical Stack
+
+**Primary:** Python • REST APIs • CLI Tools • File Automation • Data Processing  
+**AI & Automation:** OpenAI API • LangChain (learning & building) • AI Agents • Workflow Orchestration (n8n)  
+**Systems & Backend:** Node.js • Express • PostgreSQL • Authentication (JWT)  
+**Tools:** Git • GitHub • Docker (building fluency) • CI/CD (GitHub Actions) • Vercel • Render  
+
+---
+
+## 📌 Featured Work
+
+### 🔹 AI & Automation Projects
+(Actively building and shipping applied automation systems — see pinned repositories.)
+
+### 🔹 DevHire – Job Board Platform (PERN)
+A full-stack platform with authentication, protected routes, role-based features, and clean system architecture.  
 🔗 https://github.com/patckennedy/devhire-job-portal  
 
-### **Outdoor Adventures – Team PERN App**  
-Group project featuring JWT auth, PostgreSQL, reusable React components, and Zustand for state management.  
-🔗 https://github.com/patckennedy/outdoor-adventures  
-
 ---
 
-## 🧠 Learning Repositories  
+## 📚 Active Build Log
 
-### **Python for AI and Data**
-A structured, professional learning log covering Python fundamentals, data structures, algorithms, and beginner data analysis tasks.
+### Python for Applied AI
+Structured, hands-on development of automation tools, API integrations, and AI-powered workflows.  
 🔗 https://github.com/patckennedy/python-for-ai-and-data
 
-### **JavaScript Refresher**
-Daily practice repo covering ES6+, async/await, array/object methods, exercises, and notes.
-🔗 https://github.com/patckennedy/javascript-refresher
+---
+
+## 🎯 Current Direction
+
+I am focused on becoming highly proficient in building production-ready AI automations using Python as the core engine — integrating intelligent systems into practical, business-ready workflows.
+
+My goal is not experimentation — it is ownership of AI-driven systems from logic to deployment.
 
 ---
 
-## 🎯 Current Focus  
-Strengthening my core JavaScript & React foundations while becoming highly confident with the **PERN stack**.  
-Active focus areas include:
+## 📫 Connect
 
-- Building and deploying full-stack applications  
-- Practicing TypeScript with React + Node  
-- Improving testing discipline (Jest / RTL)  
-- Docker fundamentals & CI/CD workflows  
-- Clean code, reliability, and error handling  
+- Portfolio: https://patckennedy.com  
+- Email: hello@patckennedy.com  
+- LinkedIn: https://linkedin.com/in/patriciakennedy  
 
 ---
 
-## 📫 Get in Touch  
-- **Portfolio:** https://patckennedy.com  
-- **Email:** hello@patckennedy.com  
-- **LinkedIn:** https://linkedin.com/in/patriciakennedy  
-
----
-
-✨ *Thanks for stopping by! I’m committed to mastering the JavaScript ecosystem and building reliable, scalable applications with the PERN stack.*  
-
+✨ Building intelligent systems with clarity, reliability, and purpose.
